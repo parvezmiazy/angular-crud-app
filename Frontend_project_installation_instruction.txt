@@ -1,0 +1,19 @@
+Install Angular
+--------------------
+
+Install node version 18
+
+Install Angular version 15
+
+
+
+
+Install json server
+--------------------
+-json server installation
+
+npm install -g json-server
+
+-run json server database
+
+json-server --watch db.json
